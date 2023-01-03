@@ -18,8 +18,8 @@ Overview:
 2. display video
 3. user-defined ROI (cellsto analyze)
 4. pre-process frames: equalize illumination, sub-areas for each ROI to ensure proper tracking
-5.a tracking algorithm
-5.b extract parameters: contraction rate, contraction amplitude, contraction velocity
+5. (a) tracking algorithm
+   (b) extract parameters: contraction rate, contraction amplitude, contraction velocity
 6. display results in Command Window 
 
 In 4. users can modify the starting and ending frame of the running observation window (ROW) where the contractile behavior is analyzed. 
